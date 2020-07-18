@@ -142,7 +142,7 @@ with tf.Session() as sess:
             print("\r{}%".format(100 * iteration // n_batches), end="")
             sys.stdout.flush()
             indices = np.random.permutation(n_labeled_instances)[:batch_size]
-            Z_batch = Z_train[:batch_size]#MISSING CODE
+            Z_batch = Z_train[:batch_size]
             sess.run(training_op_phase2, feed_dict={Z: Z_batch})
     
     # Showing images

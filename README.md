@@ -7,7 +7,7 @@
 
 ---
 
-Centrale Lille | [Anas ESSOUNAINI](https://github.com/AnasEss) 
+Centrale Lille | [Anas ESSOUNAINI](https://www.linkedin.com/in/anas-essounaini-b7514014a/) | [Contact us][anas-email]
 
 ## 📝 Table of Contents
 
@@ -56,3 +56,5 @@ the back-propagation algorithm on this network, some of the weights of which are
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - Hat tip to anyone whose code was used, especially my Ensemble Learning Professor John Klein
+
+[anas-email]: mailto:essounaini97@gmail.com

@@ -16,10 +16,6 @@ Centrale Lille | [Anas ESSOUNAINI](https://github.com/AnasEss)
 - [🎥 Repository Structure  <a name = "repo-struct"></a>](#-repository-structure)
 - [🎉 Acknowledgements <a name = "acknowledgement"></a>](#-acknowledgements)
 
-- [📝 Table of Contents](#-table-of-contents)
-- [🧐 About <a name = "about"></a>](#-about)
-- [🎥 Repository Structure  <a name = "repo-struct"></a>](#-repository-structure)
-- [🎉 Acknowledgements <a name = "acknowledgement"></a>](#-acknowledgements)
 
 ## 🧐 About <a name = "about"></a>
 

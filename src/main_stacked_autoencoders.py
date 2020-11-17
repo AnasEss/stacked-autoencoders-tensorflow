@@ -1,3 +1,15 @@
+##################################################################################
+#                            Author: Anas ESSOUNAINI                             #
+#                    File Name: main_stacked_autoencoders.py                     #
+#                     Creation Date: July 17, 2020 07:19 PM                      #
+#                    Last Updated: November 17, 2020 03:10 AM                    #
+#                            Source Language: python                             #
+#   Repository: https://github.com/AnasEss/stacked_autoencoders_tensorflow.git   #
+#                                                                                #
+#                            --- Code Description ---                            #
+#                              stacked autoencoders                              #
+##################################################################################
+
 # packages
 import tensorflow as tf
 import numpy as np
